@@ -3,5 +3,5 @@ from . import views
 
 #produtos
 urlpatterns = [
-    path('', views.metodo)
+    path('teste/', views.teste)
 ]
